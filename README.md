@@ -4,7 +4,6 @@ App Trader is a new company that requires assistance exploring and gaining insig
 ## Table of Contents
 * General Information and Assumptions
 * Technologies
-* Setup
 
 ## General Information and Assumptions
 App trader is a broker that purchases the rights to apps from developers in order to market the apps and offer in-app purchase. App developers retain **all** money from users purchasing the app, and they retain _half_ of the money made from in-app purchases. App Trader will be solely responsible for marketing apps they purchase rights to.  
@@ -25,5 +24,3 @@ Final product/presentation includes recommendations about price range, genre, co
 
 ## Technologies
 -- PostgreSQL
-
-## Setup
