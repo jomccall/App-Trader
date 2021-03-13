@@ -23,4 +23,4 @@ e. App Trader would prefer to work with apps that are available in both the App 
 Final product/presentation includes recommendations about price range, genre, content rating, etc. for App Trader to target. Additionally, a list of 10 apps that the company should purchase for a special **Black Friday** debut.
 
 ## Technologies
--- PostgreSQL
+* PostgreSQL
